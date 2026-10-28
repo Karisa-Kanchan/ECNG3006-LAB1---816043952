@@ -1,0 +1,182 @@
+17:17:07.871 > burn time = 5000 ms
+17:17:07.871 > 
+17:17:07.871 > task 1 running
+17:17:08.871 > task 2 running
+17:17:12.870 > burn time = 2000 ms
+17:17:12.870 > 
+17:17:12.870 > task 1 running
+17:17:13.870 > task 3 running
+17:17:17.870 > burn time = 1000 ms
+17:17:17.870 > 
+17:17:17.870 > task 1 running
+17:17:18.869 > task 4 running
+17:17:22.869 > burn time = 0 ms
+17:17:22.869 > 
+17:17:27.866 > burn time = 5000 ms
+17:17:27.867 > 
+17:17:27.867 > task 1 running
+17:17:28.866 > task 2 running
+17:17:32.865 > burn time = 2000 ms
+17:17:32.865 > 
+17:17:32.865 > task 1 running
+17:17:33.862 > task 3 running
+17:17:37.865 > burn time = 1000 ms
+17:17:37.865 > 
+17:17:37.865 > task 1 running
+17:17:38.865 > task 4 running
+17:17:42.864 > burn time = 0 ms
+17:17:42.864 > 
+17:17:47.862 > burn time = 5000 ms
+17:17:47.863 > 
+17:17:47.863 > task 1 running
+17:17:48.862 > task 2 running
+17:17:52.862 > burn time = 2000 ms
+17:17:52.862 > 
+17:17:52.862 > task 1 running
+17:17:53.861 > task 3 running
+17:17:57.860 > burn time = 1000 ms
+17:17:57.861 > 
+17:17:57.861 > task 1 running
+17:17:58.857 > task 4 running
+17:18:02.860 > burn time = 0 ms
+17:18:02.860 > 
+17:18:07.858 > burn time = 5000 ms
+17:18:07.859 > 
+17:18:07.859 > task 1 running
+17:18:08.858 > task 2 running
+17:18:12.856 > burn time = 2000 ms
+17:18:12.856 > 
+17:18:12.856 > task 1 running
+17:18:13.857 > task 3 running
+17:18:17.856 > burn time = 1000 ms
+17:18:17.856 > 
+17:18:17.856 > task 1 running
+17:18:18.855 > task 4 running
+17:18:22.855 > burn time = 0 ms
+17:18:22.855 > 
+17:18:27.854 > burn time = 5000 ms
+17:18:27.854 > 
+17:18:27.854 > task 1 running
+17:18:28.854 > task 2 running
+17:18:32.853 > burn time = 2000 ms
+17:18:32.853 > 
+17:18:32.853 > task 1 running
+17:18:33.853 > task 3 running
+17:18:37.852 > burn time = 1000 ms
+17:18:37.852 > 
+17:18:37.852 > task 1 running
+17:18:38.851 > task 4 running
+17:18:42.851 > burn time = 0 ms
+17:18:42.851 > 
+17:18:47.849 > burn time = 5000 ms
+17:18:47.850 > 
+17:18:47.850 > task 1 running
+17:18:48.846 > task 2 running
+17:18:52.846 > burn time = 2000 ms
+17:18:52.846 > 
+17:18:52.846 > task 1 running
+17:18:53.848 > task 3 running
+17:18:57.847 > burn time = 1000 ms
+17:18:57.847 > 
+17:18:57.847 > task 1 running
+17:18:58.846 > task 4 running
+17:19:02.847 > burn time = 0 ms
+17:19:02.847 > 
+17:19:07.845 > burn time = 5000 ms
+17:19:07.845 > 
+17:19:07.845 > task 1 running
+17:19:08.844 > task 2 running
+17:19:12.844 > burn time = 2000 ms
+17:19:12.844 > 
+17:19:12.844 > task 1 running
+17:19:13.844 > task 3 running
+17:19:17.842 > burn time = 1000 ms
+17:19:17.844 > 
+17:19:17.844 > task 1 running
+17:19:18.836 > task 4 running
+17:19:22.842 > burn time = 0 ms
+17:19:22.842 > 
+17:19:27.840 > burn time = 5000 ms
+17:19:27.841 > 
+17:19:27.841 > task 1 running
+17:19:28.840 > task 2 running
+17:19:32.839 > burn time = 2000 ms
+17:19:32.840 > 
+17:19:32.840 > task 1 running
+17:19:33.838 > task 3 running
+17:19:37.838 > burn time = 1000 ms
+17:19:37.838 > 
+17:19:37.838 > task 1 running
+17:19:38.836 > task 4 running
+17:19:42.837 > burn time = 0 ms
+17:19:42.837 > 
+17:19:47.835 > burn time = 5000 ms
+17:19:47.835 > 
+17:19:47.835 > task 1 running
+17:19:48.836 > task 2 running
+17:19:52.834 > burn time = 2000 ms
+17:19:52.835 > 
+17:19:52.835 > task 1 running
+17:19:53.834 > task 3 running
+17:19:57.833 > burn time = 1000 ms
+17:19:57.835 > 
+17:19:57.835 > task 1 running
+17:19:58.830 > task 4 running
+17:20:02.830 > burn time = 0 ms
+17:20:02.833 > 
+17:20:07.828 > burn time = 5000 ms
+17:20:07.828 > 
+17:20:07.828 > task 1 running
+17:20:08.828 > task 2 running
+17:20:12.829 > burn time = 2000 ms
+17:20:12.829 > 
+17:20:12.829 > task 1 running
+17:20:13.828 > task 3 running
+17:20:17.828 > burn time = 1000 ms
+17:20:17.828 > 
+17:20:17.828 > task 1 running
+17:20:18.827 > task 4 running
+17:20:22.826 > burn time = 0 ms
+17:20:22.827 > 
+17:20:27.825 > burn time = 5000 ms
+17:20:27.825 > 
+17:20:27.825 > task 1 running
+17:20:28.824 > task 2 running
+17:20:32.823 > burn time = 2000 ms
+17:20:32.824 > 
+17:20:32.824 > task 1 running
+17:20:33.823 > task 3 running
+17:20:37.823 > burn time = 1000 ms
+17:20:37.823 > 
+17:20:37.823 > task 1 running
+17:20:38.822 > task 4 running
+17:20:42.822 > burn time = 0 ms
+17:20:42.822 > 
+17:20:47.820 > burn time = 5000 ms
+17:20:47.820 > 
+17:20:47.820 > task 1 running
+17:20:48.820 > task 2 running
+17:20:52.818 > burn time = 2000 ms
+17:20:52.818 > 
+17:20:52.818 > task 1 running
+17:20:53.818 > task 3 running
+17:20:57.817 > burn time = 1000 ms
+17:20:57.817 > 
+17:20:57.817 > task 1 running
+17:20:58.818 > task 4 running
+17:21:02.817 > burn time = 0 ms
+17:21:02.817 > 
+17:21:07.815 > burn time = 5000 ms
+17:21:07.815 > 
+17:21:07.815 > task 1 running
+17:21:08.815 > task 2 running
+17:21:12.814 > burn time = 2000 ms
+17:21:12.814 > 
+17:21:12.814 > task 1 running
+17:21:13.813 > task 3 running
+17:21:17.812 > burn time = 1000 ms
+17:21:17.813 > 
+17:21:17.813 > task 1 running
+17:21:18.812 > task 4 running
+17:21:22.812 > burn time = 0 ms
+17:21:22.812 > 
